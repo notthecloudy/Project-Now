@@ -1,0 +1,9 @@
+key: kfwxfy value: Text|game|Etherlastic|gear view: 0
+key: sw17zu value: Text|game|Etherlastic|gear view: 0
+key: k3mhry value: Text|game|Etherlastic|gear view: 0
+key: m0uvcq value: Text|game|Etherlastic|grid view: 0
+key: bqgubq value: Text|game|Etherlastic|book view: 0
+key: nhq52x value: Text|game|Etherlastic|book view: 0
+key: 8mddfc value: Text|game|Etherlastic|grid view: 0
+key: ppatwr value: Text|game|Etherlastic|grid view: 0
+key: wmaga0 value: Text|game|Etherlastic|grid view: 0
